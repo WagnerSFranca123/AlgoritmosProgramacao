@@ -6,7 +6,7 @@ int main()
 {
     double raio, area;
 
-    printf("Digite o valor do raio do circulo: ");
+    printf("Digite o VALOR do raio do circulo: ");
     scanf("%lf", &raio);
 
     area = M_PI*(pow(raio, 2));
