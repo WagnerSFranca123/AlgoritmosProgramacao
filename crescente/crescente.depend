@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1739287240 source:c:\users\wagne\documents\c\crescente\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1739285056 source:c:\users\wagne\documents\c\baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

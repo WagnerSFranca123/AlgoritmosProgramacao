@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1739459719 source:c:\users\wagne\documents\c\soma_vetor\main.c
+	<stdio.h>
+	<stdlib.h>
+
