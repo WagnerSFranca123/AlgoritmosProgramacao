@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744820264 source:c:\users\wagne\documents\c\algoritmosprogramacao\baskara3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
