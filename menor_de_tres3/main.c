@@ -3,7 +3,7 @@
 
 int main()
 {
-    int x, y, z, menor;
+    int x, y, z;
 
     printf("Primeiro Valor: ");
     scanf("%d", &x);
