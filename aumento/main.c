@@ -28,25 +28,25 @@ int main()
     if (salAtual<=1000)
     {
         salNovo = (salAtual*0.20)+salAtual;
-                  printf("\nNovo salario: R$ %.2f",salNovo);
+        printf("\nNovo salario: R$ %.2f",salNovo);
         aumento = (salAtual*0.20);
-                  printf("\nAumento: R$ %.2f",aumento);
+        printf("\nAumento: R$ %.2f",aumento);
         printf("\nPorcentual: 20%%");
     }
     else if (salAtual<=3000)
     {
         salNovo = (salAtual*0.15)+salAtual;
-                  printf("\nNovo salario: R$ %.2f",salNovo);
+        printf("\nNovo salario: R$ %.2f",salNovo);
         aumento = (salAtual*0.15);
-                  printf("\nAumento: R$ %.2f",aumento);
+        printf("\nAumento: R$ %.2f",aumento);
         printf("\nPorcentual: 15%%");
     }
     else if (salAtual<=8000)
     {
         salNovo = (salAtual*0.10)+salAtual;
-                  printf("\nNovo salario: R$ %.2f",salNovo);
+        printf("\nNovo salario: R$ %.2f",salNovo);
         aumento = (salAtual*0.10);
-                  printf("\nAumento: R$ %.2f",aumento);
+        printf("\nAumento: R$ %.2f",aumento);
         printf("\nPorcentual: 10%%");
     }
     else
