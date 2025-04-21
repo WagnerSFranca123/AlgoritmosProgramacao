@@ -1,6 +1,6 @@
 # AlgoritmosProgramacao
 ## Treino de Lógica e algoritmos em:
-* Portugol
+* VisualG
 * C
 * C++
 * C#
