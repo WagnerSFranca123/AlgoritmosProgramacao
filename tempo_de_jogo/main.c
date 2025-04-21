@@ -34,7 +34,6 @@ int main()
     {
         duracao = fim-inicio;
         printf("O jogo durou %i hora(s)", duracao);
-
     }
     return 0;
 }
