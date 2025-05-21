@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1747861162 source:c:\users\wagner.franca\algoritmosprogramacao\senha_fixa\main.c
+	<stdio.h>
+	<stdlib.h>
+
