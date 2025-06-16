@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1750079311 source:c:\curso de programacao\validacao_de_nota\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1750079708 source:c:\curso de programacao\algoritmosprogramacao\validacao_de_nota\main.c
+	<stdio.h>
+	<stdlib.h>
+
