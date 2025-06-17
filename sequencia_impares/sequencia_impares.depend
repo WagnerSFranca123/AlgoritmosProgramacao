@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1750168070 source:c:\curso de programacao\algoritmosprogramacao\sequencia_impares\main.c
+	<stdio.h>
+	<stdlib.h>
+
