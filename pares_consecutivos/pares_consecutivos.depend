@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1750120062 source:c:\users\wagner.franca\algoritmosprogramacao\pares_consecutivos\main.c
+	<stdio.h>
+	<stdlib.h>
+
